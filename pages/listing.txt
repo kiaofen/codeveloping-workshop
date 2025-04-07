@@ -1,9 +1,6 @@
 introduction.md
 resolving-merge-conflicts.md
-<<<<<<< HEAD
 contributing-to-a-repository.md
-=======
 creating-issues.md
->>>>>>> 50b0d7a6e03e6ddc60f4ab3faed365e1ee1318be
-#creating-pull-requests.md
+creating-pull-requests.md
 
